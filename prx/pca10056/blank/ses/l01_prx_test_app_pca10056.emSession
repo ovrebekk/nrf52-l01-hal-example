@@ -1,0 +1,52 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="spi_pca10056"/>
+  <ProjectSessionItem path="spi_pca10056;spi_pca10056"/>
+  <ProjectSessionItem path="spi_pca10056;spi_pca10056;Application"/>
+  <ProjectSessionItem path="spi_pca10056;spi_pca10056;nRF_Drivers"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="110" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="127" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../integration/nrfx/legacy/nrf_drv_spi.h" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="504" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="1" top="587" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="857" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../integration/nrfx/legacy/apply_old_config.h" selected="0" top="822" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="755" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../common/nrf5dk_l01.c" selected="0" top="708" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="62" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../common/app_radio.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="54" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/drivers/src/nrfx_spi.c" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/drivers/src/nrfx_spim.c" selected="0" top="36" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="spi_pca10056" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="D:/Nordic_Semiconductor/nRF5_SDK_15.2.0_9412b96/examples/_too/l01_test_app/common" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
